@@ -2,4 +2,5 @@
 
 ### Running
 
-`./go.sh`
+1. `./go.sh`
+2. Open http://localhost:8080
