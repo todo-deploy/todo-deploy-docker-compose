@@ -1,4 +1,4 @@
-# tododeploy-docker-compose
+# todo-deploy-docker-compose
 
 ### Running
 
