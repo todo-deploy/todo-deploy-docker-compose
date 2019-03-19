@@ -1,5 +1,9 @@
 # todo-deploy-docker-compose
 
+### Prerequisites
+
+- Docker
+
 ### Running
 
 1. `make up`
