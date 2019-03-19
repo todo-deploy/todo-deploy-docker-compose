@@ -2,5 +2,5 @@
 
 ### Running
 
-1. `./go.sh`
+1. `make up`
 2. Open http://localhost:8080
